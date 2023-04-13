@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joaoluke
 - 👀 I am interested in learning as much as I can about information technology
 - 🌱 I'm currently learning about quantum computing using python
-- 💞️ Procuro colaboração em computação quântica, programação Front-End (ReactJS, React Native e Vue) e Back-End (Python/Django e PHP/Laravel)
+- 💞️ I am looking to collaborate in quantum computing, Front-End programming (ReactJS, React Native and Vue) and Back-End (Python/Django and PHP/Laravel)
 - 📫 joliveira@mwneo.com | joaooliveira@pontue.com.br
 
 <!---
