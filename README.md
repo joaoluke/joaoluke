@@ -2,7 +2,7 @@
 - 👀 I am interested in learning as much as I can about information technology
 - 🌱 I'm currently learning about quantum computing using python
 - 💞️ I am looking to collaborate in quantum computing, Front-End programming (ReactJS, React Native and Vue) and Back-End (Python/Django and PHP/Laravel)
-- 📫 joaooliveira@pontue.com.br
+- 📫 joao.oliveira@sciensa.com
 
 <!---
 joaoluke/joaoluke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
