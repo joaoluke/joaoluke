@@ -1,12 +1,5 @@
 # 👋 Hi, I'm João Lucas
 
-### 🚀 CEO & Founder of PhrasePlay
-
-**PhrasePlay** is a Brazilian language-learning app — a “Spotify of bilingual phrases” — powered by natural AI voices and dynamic playlists.
-🔗 [https://www.phraseplay.com.br](https://www.phraseplay.com.br)
-
----
-
 ## 🧠 About Me
 
 * 👨‍💻 **Senior Software Developer** working across the full stack.
@@ -19,16 +12,6 @@
 ---
 
 ## 🔥 What I’m Working On
-
-### 🟣 PhrasePlay — CEO, Founder & Lead Engineer
-
-* Leading the entire product lifecycle: architecture → development → deployment → growth.
-* Backend development using **Python/Django**.
-* Designing and maintaining a robust, scalable and cost-efficient AWS infrastructure.
-* Building internal tools (PhraseStudio) for content creation.
-* Working with multilingual AI voice models (ElevenLabs + custom voices).
-
----
 
 ## 💻 JECH — My Own Programming Language
 
@@ -51,7 +34,7 @@ JECH is a fully custom language built in **C**, featuring:
 **Frontend:** React · VueJS
 **Mobile** React Native · Flutter
 **Infrastructure:** AWS (EC2, RDS, S3, SES, CloudFront, IAM, VPC, ALB)
-**Languages:** C · Python · TypeScript · Kotlin · Swift
+**Languages:** C · Python · TypeScript · PHP
 **Databases:** PostgreSQL
 **DevOps / Tools:** Docker · GitHub Actions · Nginx · Linux
 
@@ -60,7 +43,6 @@ JECH is a fully custom language built in **C**, featuring:
 ## 📫 Contact
 
 📧 **[joaolucas.deoliveira56@gmail.com](mailto:joaolucas.deoliveira56@gmail.com)**
-🔗 App — [https://www.phraseplay.com.br](https://www.phraseplay.com.br)
 
 
 
